@@ -32,6 +32,9 @@ React
 The frontend is developed using React, a popular JavaScript library for building user interfaces. 
 React enables the creation of modular and reusable components, facilitating the development of a dynamic and responsive dashboard.
 
+You will notice a couple of files are .tsx instead of .js, this is because I believe using TypeScript can be incredibly powerful and helpful when working with a young codebase. It helps prevent errors in the future that tend to spawn from how loosely typed JS is. Using Type
+Script initially means taking a bit of extra time when setting things up as there's a lot more to define but helps prevent headaches in the future, it is something I consider as a major improvement to any codebase I've worked on so far.
+
 # Additional Information
 
 The app is designed to provide administrators with a powerful dashboard to search and analyze employee device scans. It features a responsive design, making it accessible across various devices. Future updates will include additional features such as sorting by date or alphabetical order.
